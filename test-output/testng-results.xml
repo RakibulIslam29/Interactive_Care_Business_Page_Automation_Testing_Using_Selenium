@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-07-05T15:34:04 BDT" name="Default suite" finished-at="2024-07-05T15:34:19 BDT" duration-ms="14448">
+    <groups>
+    </groups>
+    <test started-at="2024-07-05T15:34:04 BDT" name="Default test" finished-at="2024-07-05T15:34:19 BDT" duration-ms="14448">
+      <class name="testcases.Restriction_for_Numeric_or_Special_Characters_in_First_Name">
+        <test-method is-config="true" signature="setBrowser()[pri:0, instance:testcases.Restriction_for_Numeric_or_Special_Characters_in_First_Name@6138e79a]" started-at="2024-07-05T15:34:04 BDT" name="setBrowser" finished-at="2024-07-05T15:34:10 BDT" duration-ms="5200" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setBrowser -->
+        <test-method signature="VerifyInputRestrictionforNumericorSpecialCharactersinFirstNameField()[pri:0, instance:testcases.Restriction_for_Numeric_or_Special_Characters_in_First_Name@6138e79a]" started-at="2024-07-05T15:34:10 BDT" name="VerifyInputRestrictionforNumericorSpecialCharactersinFirstNameField" finished-at="2024-07-05T15:34:18 BDT" duration-ms="7946" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyInputRestrictionforNumericorSpecialCharactersinFirstNameField -->
+        <test-method is-config="true" signature="quitBrowser()[pri:0, instance:testcases.Restriction_for_Numeric_or_Special_Characters_in_First_Name@6138e79a]" started-at="2024-07-05T15:34:18 BDT" name="quitBrowser" finished-at="2024-07-05T15:34:19 BDT" duration-ms="830" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+      </class> <!-- testcases.Restriction_for_Numeric_or_Special_Characters_in_First_Name -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
