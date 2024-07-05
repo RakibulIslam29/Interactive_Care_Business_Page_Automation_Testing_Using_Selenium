@@ -1,7 +1,7 @@
 
-# Interactive Care Business Page Automation Testing using Selenium
+# Interactive Cares Business Page Automation Testing using Selenium
 
-This project aims to automate testing of the Interactive Care business page using Selenium WebDriver, leveraging the Page Object Model (POM) design pattern. It includes tests for verifying UI elements, functionality such as search boxes, "Get in Touch" button interactions, and other relevant features.
+This project aims to automate testing of the Interactive Cares business page using Selenium WebDriver, leveraging the Page Object Model (POM) design pattern. It includes tests for verifying UI elements, functionality such as search boxes, "Get in Touch" button interactions, and other relevant features.
 
 
 ## Prerequisites
@@ -17,7 +17,7 @@ Ensure you have the following installed:
 Install my-project with npm
 1. Clone the repository:
 ```bash
-  https://github.com/RakibulIslam29/Interactive_Care_Business_Page_Automation_Testing_Using_Selenium.git
+  https://github.com/RakibulIslam29/Interactive_Cares_Business_Page_Automation_Testing_Using_Selenium.git
 
 ```
 2. Install dependencies:
